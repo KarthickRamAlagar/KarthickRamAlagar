@@ -16,7 +16,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
-
 ---
 
 ### 💻 I code in
@@ -75,5 +74,8 @@
 ### 🧠 Practicing JavaScript Daily
 
 📘 I’m sharpening my JavaScript skills on [Exercism.org](https://exercism.org/profiles/KarthickRamAlagar)
-
+## 👨‍🏫 Mentors
+-  [JSMastery](https://www.jsmastery.pro/)
+- [Roadside Coder](https://www.youtube.com/@RoadsideCoder)
+ <br/>
 Stay tuned — more projects & experiments coming soon!
