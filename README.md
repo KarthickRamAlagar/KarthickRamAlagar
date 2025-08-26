@@ -5,8 +5,6 @@
 - 🔭 Previously worked at **Aastra Technology**  
 - 🌱 Currently exploring **React Ecosystem**, **Animations**, and **Modern Web Architectures**
 
----
-
 ### 🌐 Social Presence
 <p>
   <a href="https://www.linkedin.com/in/karthickeyan-ramalagar-763404370/">
