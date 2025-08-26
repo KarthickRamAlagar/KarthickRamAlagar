@@ -1,4 +1,6 @@
 ## Hi there 👋 I'm Karthikeyan R — Frontend Architect | UI Developer
+🌐 **Karthick Nexus – Portfolio**  - 🔗 [Visit Portfolio](https://karthi-nexus.vercel.app/RenderGate)  
+ 
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -62,9 +64,7 @@
   🔗 [Live Demo](https://karthickramalagar.github.io/BrainWave/)  
   💻 React.js, Tailwind CSS, Bento UI, Vite
 
-- 🌐 **Karthick Nexus – Portfolio**  
-  🔗 [Visit Portfolio](https://karthi-nexus.vercel.app/RenderGate)  
-  💻 React.js, Tailwind CSS, Clerk, Supabase, Modern UI/UX
+
 
 
 ### 📊 GitHub Stats
