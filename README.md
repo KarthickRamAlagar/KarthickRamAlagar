@@ -25,7 +25,6 @@
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/null/graphql.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
 </p>
 
@@ -35,7 +34,9 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=Zustand&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React HookForm-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zod-00A3E0?style=for-the-badge&logoColor=white"/>
+
 </p>
 
 ### 🛠️ Tools
@@ -44,7 +45,6 @@
   <img src="https://img.shields.io/badge/AppWrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Clerk-3D4F9F?style=for-the-badge&logo=clerk&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeonDB-0099CC?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Yup-00A3E0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
