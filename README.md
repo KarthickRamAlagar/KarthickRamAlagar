@@ -1,4 +1,5 @@
-## Hi there 👋 I'm Karthikeyan R — Frontend Architect | UI Developer
+## <img src="https://raw.githubusercontent.com/KarthickRamAlagar/KarthiNexus/main/public/KR.png" alt="KR Logo" width="55"/> Hi there 👋 I'm Karthikeyan R — Frontend Architect | UI Developer
+
 🌐 **Karthick Nexus** –  [Visit KCU](https://karthi-nexus.vercel.app/RenderGate)  
  
 
