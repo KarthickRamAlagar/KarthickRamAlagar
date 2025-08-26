@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </p>
----
 
 ### 💻 I code in
 <p>
@@ -45,7 +44,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
----
 
 ### 🚀 My Projects
 
@@ -61,13 +59,11 @@
   🔗 [Live Demo](https://karthickramalagar.github.io/BrainWave/)  
   💻 React.js, Tailwind CSS, Bento UI, Vite
 
----
 
 ### 📊 GitHub Stats
 
 [![KarthickRamAlagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthickRamAlagar&bg_color=000000&color=4c9e86&line=8d4c9e&point=40413e&area=true&hide_border=true)](https://github.com/KarthickRamAlagar)
 
----
 
 ### 🧠 Practicing JavaScript Daily
 
