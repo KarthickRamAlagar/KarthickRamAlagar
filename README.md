@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React HookForm-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React HookForm-583D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Zod-00A3E0?style=for-the-badge&logoColor=white"/>
 
 </p>
