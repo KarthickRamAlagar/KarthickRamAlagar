@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Karthikeyan R — Frontend Engineer
+## Hi there 👋 I'm Karthikeyan R — Frontend Architect | UI Developer
 
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
@@ -15,13 +15,13 @@
   </a>
 </p>
 
+
 ### 💻 I code in
 <p>
   <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
   <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
   <img src="https://img.icons8.com/color/48/000000/css3.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
   <img src="https://img.icons8.com/color/48/null/graphql.png"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png"/>
 </p>
@@ -39,10 +39,13 @@
 <p>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/AppWrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-3D4F9F?style=for-the-badge&logo=clerk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NeonDB-0099CC?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Yup-00A3E0?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
+
 
 
 ### 🚀 My Projects
@@ -59,17 +62,26 @@
   🔗 [Live Demo](https://karthickramalagar.github.io/BrainWave/)  
   💻 React.js, Tailwind CSS, Bento UI, Vite
 
+- 🌐 **Karthick Nexus – Portfolio**  
+  🔗 [Visit Portfolio](https://karthi-nexus.vercel.app/RenderGate)  
+  💻 React.js, Tailwind CSS, Clerk, Supabase, Modern UI/UX
+
 
 ### 📊 GitHub Stats
 
 [![KarthickRamAlagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthickRamAlagar&bg_color=000000&color=4c9e86&line=8d4c9e&point=40413e&area=true&hide_border=true)](https://github.com/KarthickRamAlagar)
 
 
+
 ### 🧠 Practicing JavaScript Daily
 
 📘 I’m sharpening my JavaScript skills on [Exercism.org](https://exercism.org/profiles/KarthickRamAlagar)
+
+
 ## 👨‍🏫 Mentors
--  [JSMastery](https://www.jsmastery.pro/)
-- [Roadside Coder](https://www.youtube.com/@RoadsideCoder)
- <br/>
-Stay tuned — more projects & experiments coming soon!
+- [JSMastery](https://www.jsmastery.pro/)  
+- [Roadside Coder](https://www.youtube.com/@RoadsideCoder)  
+
+<br/>
+
+✨ Stay tuned — more projects & experiments coming soon!
