@@ -55,7 +55,7 @@
 ### 🚀 My Projects
 
 - 🎯 **ShopZone – E-Commerce UI**  
-  🔗 [Live Demo](https://karthickramalagar.github.io/ShopZone/)  
+  🔗 [Live Demo](https://karthickramalagar.github.io/Shop-Zone/#/)  
   💻 React.js, Tailwind CSS, Framer Motion
 
 - 🎬 **CineScope – Movie Discovery**  
