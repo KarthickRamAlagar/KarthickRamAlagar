@@ -52,19 +52,28 @@
 
 
 
-### 🚀 My Projects
+### 🚀 My Products
 
+- 🍳 **Servd – AI Recipe & Pantry Platform**
+  🔗 [Live Demo](https://servd-three.vercel.app/)  
+  🔗 [Frontend Repo](https://github.com/KarthickRamAlagar/servd)  
+  🔗 [Backend Repo](https://github.com/KarthickRamAlagar/servd-backend)  
+  💻 Next.js, Strapi, Clerk, Arcjet, Google Gemini AI
+  
 - 🎯 **ShopZone – E-Commerce UI**  
   🔗 [Live Demo](https://karthickramalagar.github.io/Shop-Zone/#/)  
-  💻 React.js, Tailwind CSS, Framer Motion
+  💻 React.js, Tailwind CSS, Framer Motion  
 
 - 🎬 **CineScope – Movie Discovery**  
   🔗 [Live Demo](https://karthickramalagar.github.io/CineScope/)  
-  💻 React.js, TypeScript, GSAP, Supabase
+  💻 React.js, TypeScript, GSAP, Supabase  
 
 - 🔋 **Brainwave – Battery UI**  
   🔗 [Live Demo](https://karthickramalagar.github.io/BrainWave/)  
-  💻 React.js, Tailwind CSS, Bento UI, Vite
+  💻 React.js, Tailwind CSS, Bento UI, Vite  
+
+
+
 
 
 
