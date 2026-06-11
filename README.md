@@ -73,11 +73,6 @@
   💻 React.js, Tailwind CSS, Bento UI, Vite  
 
 
-
-
-
-
-
 ### 📊 GitHub Stats
 
 [![KarthickRamAlagar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthickRamAlagar&bg_color=000000&color=4c9e86&line=8d4c9e&point=40413e&area=true&hide_border=true)](https://github.com/KarthickRamAlagar)
@@ -86,7 +81,11 @@
 
 ### 🧠 Practicing JavaScript Daily
 
-📘 I’m sharpening my JavaScript skills on [Exercism.org](https://exercism.org/profiles/KarthickRamAlagar)
+📘 I’m sharpening my JavaScript skills on [Exercism.org](https://exercism.org/profiles/KarthickRamAlagar) 
+
+<p align="center">
+  <img src="public/imgs/FastCommerceBanner.png" alt="Fast Commerce Banner" width="100%">
+</p>
 
 
 ## 👨‍🏫 Mentors
