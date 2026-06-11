@@ -84,7 +84,7 @@
 📘 I’m sharpening my JavaScript skills on [Exercism.org](https://exercism.org/profiles/KarthickRamAlagar) 
 
 <p align="center">
-  <img src="public/imgs/FastCommerceBanner.png" alt="Fast Commerce Banner" width="100%">
+  <img src="https://github.com/KarthickRamAlagar/FastCommerce---Backend-System/blob/main/public/imgs/FastCommerceBanner.png" alt="Fast Commerce Banner" width="100%">
 </p>
 
 
